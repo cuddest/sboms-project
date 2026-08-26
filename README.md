@@ -203,19 +203,6 @@ be audited independently.
 - [CycloneDX VEX capabilities](https://cyclonedx.org/capabilities/vex/) and
   [CISA VEX resources](https://www.cisa.gov/topics/cyber-threats-and-advisories/sbom/sbomresourceslibrary)
 
-## Citing
-
-If you use this study or its artifacts:
-
-```yaml
-# CITATION.cff
-title: "SBOM Reachability Study: from package-level vulnerability findings to source-level reachability"
-authors:
-  - given-names: "Ayoub"
-    family-names: "Touati"
-version: v1.0.0
-date-released: 2026-08-24
-```
 
 ## License
 
