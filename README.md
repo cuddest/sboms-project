@@ -33,8 +33,8 @@ The study is inspired by Zhou, Dacier, and Konstantinou,
 > had no identified path to the vulnerable functionality. This is a sample result.
 > It is not a false-positive rate for Python software.
 
-The full narrative lives in [`docs/research-article.md`](docs/research-article.md) and on the
-[author's site](https://cuddest.github.io/cuddest/writeups/sbom-reachability.html).
+The full narrative lives in [`docs/research-article.md`](docs/research-article.md) and on this
+[nice blog i made about this project](https://cuddest.github.io/cuddest/writeups/sbom-reachability.html).
 
 ## Research questions
 
