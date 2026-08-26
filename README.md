@@ -2,6 +2,7 @@
 
 **From CVEs to reachability: what a package-level vulnerability finding does, and does not, tell you about application risk.**
 
+[check the article i wrote about this project to get a better picture about my motivation, obstacles and findings and where i see this going in the future ! ](https://cuddest.github.io/cuddest/writeups/sbom-reachability.html)
 This repository is the complete artifact set of an empirical study on SBOM-based
 Software Composition Analysis (SCA) and the gap between *component presence* and
 *vulnerability reachability*.
