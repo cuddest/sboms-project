@@ -1,0 +1,9 @@
+repository,url,branch,commit,commit_date
+CantusDB,https://github.com/DDMAL/CantusDB.git,develop,ae827fcd0ed68262c89ed478bfa0bec676337ce1,2026-08-22T10:44:46-04:00
+CoPeP,https://github.com/chandar-lab/CoPeP.git,main,7cceddc3a08781b23d852b8bb4bfe047097698f2,2026-03-02T19:43:10-05:00
+cycode-cli,https://github.com/cycodehq/cycode-cli.git,main,0d44b695dd0300040b31a9216fe9cacf278145da,2026-08-20T07:47:23+03:00
+openhands,https://github.com/OpenHands/OpenHands.git,main,9e8ba84f75470cbf28494105c9c6d1d2a96fc8a9,2026-08-22T19:01:23+02:00
+openpiv-python,https://github.com/OpenPIV/openpiv-python.git,master,7e46ce8e9585f8e763dc94a1eccd5bb0dbbb5285,2026-08-23T00:42:59+03:00
+pypi-browser,https://github.com/chriskuehl/pypi-browser.git,main,473dfd752836d35162cef73c46d65c9e6c114ed3,2024-12-27T15:13:20-06:00
+seed,https://github.com/SEED-platform/seed.git,develop,837d3ddd336e7ad1ea3c4eafd974b6af07a6ef22,2026-08-21T12:16:14-07:00
+validator,https://github.com/opentargets/validator.git,master,b93a7c83217572149d7cb1241b6b51378e9f8acf,2025-09-10T09:45:44+01:00

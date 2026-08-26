@@ -1,0 +1,24 @@
+===== Package-Level Vulnerability Baseline =====
+repository       total  critical   high  medium   low  not fixed
+CantusDB             0         0      0       0     0          0
+CoPeP               85         0     45      27    13          1
+cycode-cli          13         0      8       5     0          0
+openhands            2         0      1       1     0          0
+openpiv-python       1         0      0       1     0          0
+pypi-browser        24         1      7      12     4          0
+seed                91         3     53      28     7         17
+validator           30         0     14      11     5          0
+TOTAL              246         4    128      85    29         18
+
+Total findings: 246
+Distinct vulnerable (repository, package) pairs: 76
+Findings per vulnerable pair: 3.24
+
+===== Reachability Sample Outcome =====
+reachable: 0
+conditionally_reachable: 1
+not_reachable: 19
+unknown: 0
+
+By dependency type: direct=8, direct-dev-test=1, transitive=11
+By dependency depth: depth 1=9, depth 2=6, depth 3=4, depth 4=1

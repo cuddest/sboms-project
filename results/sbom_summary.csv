@@ -1,9 +1,9 @@
 repository,component_count
 CantusDB,98
-CoPeP,
-cycode-cli,
+CoPeP,142
+cycode-cli,136
 openhands,729
-openpiv-python,
-pypi-browser,
-seed,
-validator,
+openpiv-python,37
+pypi-browser,54
+seed,1024
+validator,95

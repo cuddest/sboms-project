@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this study or its artifacts, please cite it using this metadata."
+title: "SBOM Reachability Study: from package-level vulnerability findings to source-level reachability"
+authors:
+  - given-names: "Ayoub"
+    family-names: "Touati"
+    alias: "cuddest"
+    website: "https://cuddest.github.io"
+version: v1.0.0
+date-released: "2026-08-24"
+repository-code: "https://github.com/cuddest/sboms-project"
+license: MIT
+keywords:
+  - SBOM
+  - software composition analysis
+  - software supply chain security
+  - vulnerability reachability
+  - CycloneDX
