@@ -1,0 +1,9 @@
+Application:   syft
+Version:       [not provided]
+BuildDate:     [not provided]
+GitCommit:     [not provided]
+GitDescription: [not provided]
+Platform:      linux/amd64
+GoVersion:     go1.26.5
+Compiler:      gc
+SchemaVersion: 16.1.10
